@@ -1,0 +1,40 @@
+body {
+    background: url("03TQSL4.jpg")
+}
+
+header {
+    margin-top: 20px;
+    font-size: 30px;
+    margin-left: 13%;
+    margin-right: 50px;
+    border-right: 30px;
+    border-left: 30px;
+    border-top: 30px;
+    border-bottom: 30px;
+    padding: 5px;
+}
+
+.guessCSS {
+    border-right: 30px;
+    border-left: 30px;
+    border-top: 30px;
+    border-bottom: 30px;
+    padding: 5px;
+    margin-right: 40px;
+    margin-left: none;
+}
+
+#guessWhat {
+    margin-top: 15%;
+    margin-left: 10%;
+    font-size: 90px;
+    color: deeppink;
+    font-weight: bold;
+    font-family: 'Indie Flower', cursive;
+}
+
+footer {
+    margin-top: 13%;
+    margin-left: 40%;
+    font-size: 30px;
+}

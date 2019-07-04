@@ -54,7 +54,7 @@ document.onkeyup = function(event) {
   }
   
   // Display the arrays
-  document.getElementById("guesses").innerHTML = "Guesses so far: " + printGSF.join(", ");
+  document.getElementById("guesses").innerHTML = "Your guesses so far: " + printGSF.join(", ");
   
   // Hide the directions
   directionsText.textContent = "";
