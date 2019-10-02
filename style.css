@@ -49,6 +49,10 @@ body {
     box-shadow: 0 16px 20px 0 rgba(0, 0, 0, 0.2), 0 10px 24px 0 rgba(0, 0, 0, 0.19);
 }
 
+#guesses {
+    margin-top: 7px;
+}
+
 .Linear-Gradient-BG {
     background: linear-gradient(-45deg, rgb(238, 119, 82, .85), rgb(231, 60, 126, .85), rgb(35, 166, 213, .85), rgb(35, 213, 171, .85));
     animation: change 10s ease-in-out infinite;
